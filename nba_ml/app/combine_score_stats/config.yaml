@@ -1,0 +1,22 @@
+seasons:
+    - SEASON_2007
+    - SEASON_2008
+    - SEASON_2009
+    - SEASON_2010
+    - SEASON_2011
+    - SEASON_2012
+    - SEASON_2013
+    - SEASON_2014
+    - SEASON_2015
+    - SEASON_2016
+    - SEASON_2017
+    - SEASON_2018
+    - SEASON_2019
+    - SEASON_2020
+    - SEASON_2021
+
+output_folder: ../../../data/combined
+
+score_folder: ../../../data/scoreboard
+stats_folder: ../../../data/team_stats
+

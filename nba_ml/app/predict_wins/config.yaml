@@ -1,0 +1,26 @@
+read_from_combined_data: False
+all_combined_data_path: all_combined_data.csv
+train_data_path: train_data.csv
+predict_data_path: predict_data.csv
+predict_data_with_combined_path: predict_data_with_combined.csv
+
+
+seasons:
+    - SEASON_2007
+    - SEASON_2008
+    - SEASON_2009
+    - SEASON_2010
+    - SEASON_2011
+    - SEASON_2012
+    - SEASON_2013
+    - SEASON_2014
+    - SEASON_2015
+    - SEASON_2016
+    - SEASON_2017
+    - SEASON_2018
+    - SEASON_2019
+    - SEASON_2020
+    - SEASON_2021
+combined_data_folder: ../../../data/combined
+model_path: ../../../bin/models/Trained-Model-ML
+

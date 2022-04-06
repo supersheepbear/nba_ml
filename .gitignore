@@ -78,3 +78,6 @@ datas/*.py
 
 #pytest chache
 *.pytest_cache/
+
+#csv
+*.csv
